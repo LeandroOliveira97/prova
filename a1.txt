@@ -1,5 +1,9 @@
 <html>
 <body>
 	<h1>Prova</h1> 
+<<<<<<< HEAD
+	<p>Teste</p>
+=======
+>>>>>>> 19f27ff01c16bd9fa6deb56e1f45016f6788c851
 <body>
 </html>
